@@ -1,0 +1,14 @@
+c:\Speccy\sjasmplus\examples\TapLib\Game1\bin\Debug\net8.0\Game1.exe
+C:\Speccy\sjasmplus\examples\TapLib\Game1\bin\Debug\net8.0\Game1.deps.json
+C:\Speccy\sjasmplus\examples\TapLib\Game1\bin\Debug\net8.0\Game1.runtimeconfig.json
+c:\Speccy\sjasmplus\examples\TapLib\Game1\bin\Debug\net8.0\Game1.dll
+c:\Speccy\sjasmplus\examples\TapLib\Game1\bin\Debug\net8.0\Game1.pdb
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.AssemblyInfoInputs.cache
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.AssemblyInfo.cs
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.csproj.CoreCompileInputs.cache
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.dll
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\refint\Game1.dll
+c:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.pdb
+C:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\Game1.genruntimeconfig.cache
+C:\Speccy\sjasmplus\examples\TapLib\Game1\obj\Debug\net8.0\ref\Game1.dll
